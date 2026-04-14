@@ -20,3 +20,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-15
 - Tested build on clean environment
+
+## 2026-04-15
+- Verified API endpoint response schema
